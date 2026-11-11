@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://d35173766-cloud.github.io/freetools-hub-Public./sitemap.xml
